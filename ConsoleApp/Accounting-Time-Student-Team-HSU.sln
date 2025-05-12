@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accounting-Time-Student-Team-HSU", "Accounting-Time-Student-Team-HSU.csproj", "{5124CA7F-05E1-4626-AB81-23AD508D32F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5124CA7F-05E1-4626-AB81-23AD508D32F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5124CA7F-05E1-4626-AB81-23AD508D32F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5124CA7F-05E1-4626-AB81-23AD508D32F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5124CA7F-05E1-4626-AB81-23AD508D32F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EE346E8-8CD2-4DA8-97FD-38501F9BB8E0}
+	EndGlobalSection
+EndGlobal

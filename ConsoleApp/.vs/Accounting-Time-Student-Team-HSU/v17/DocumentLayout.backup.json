@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Q:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0421#\\Accounting-Time-Student-Team-HSU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5124CA7F-05E1-4626-AB81-23AD508D32F1}|Accounting-Time-Student-Team-HSU.csproj|q:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0441#\\accounting-time-student-team-hsu\\vendor\\db\\dbconnectction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5124CA7F-05E1-4626-AB81-23AD508D32F1}|Accounting-Time-Student-Team-HSU.csproj|solutionrelative:vendor\\db\\dbconnectction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5124CA7F-05E1-4626-AB81-23AD508D32F1}|Accounting-Time-Student-Team-HSU.csproj|q:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0441#\\accounting-time-student-team-hsu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5124CA7F-05E1-4626-AB81-23AD508D32F1}|Accounting-Time-Student-Team-HSU.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBConnectction.cs",
+              "DocumentMoniker": "Q:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0421#\\Accounting-Time-Student-Team-HSU\\Vendor\\DB\\DBConnectction.cs",
+              "RelativeDocumentMoniker": "Vendor\\DB\\DBConnectction.cs",
+              "ToolTip": "Q:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0421#\\Accounting-Time-Student-Team-HSU\\Vendor\\DB\\DBConnectction.cs",
+              "RelativeToolTip": "Vendor\\DB\\DBConnectction.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:05:27.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Q:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0421#\\Accounting-Time-Student-Team-HSU\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "Q:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0421#\\Accounting-Time-Student-Team-HSU\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:56:15.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
